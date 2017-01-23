@@ -1,0 +1,4 @@
+/Django project/.idea
+/Django project/MyTeamOnFreelance/*.sqlite3
+/Django project/MyTeamOnFreelance/MyTeamOnFreelance/settings.py
+/Django project/**/__pycache__/
