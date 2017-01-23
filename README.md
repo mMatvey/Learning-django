@@ -1,2 +1,2 @@
 # Learning-django
-Тестовый сайт на django
+Тестовый локальный сайт на django
